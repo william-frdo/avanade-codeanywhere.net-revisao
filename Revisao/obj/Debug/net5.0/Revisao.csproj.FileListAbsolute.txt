@@ -1,0 +1,16 @@
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\bin\Debug\net5.0\Revisao.exe
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\bin\Debug\net5.0\Revisao.deps.json
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\bin\Debug\net5.0\Revisao.dll
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\bin\Debug\net5.0\Revisao.pdb
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.dll
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.pdb
+D:\ProgProjects\Avanade CodeAnywhere .NET\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
